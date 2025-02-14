@@ -1,1 +1,1 @@
-# Softmax-algoritmas-ile-ideal-ula-m
+# Softmax-algoritmas-ile-ideal-ulasım
